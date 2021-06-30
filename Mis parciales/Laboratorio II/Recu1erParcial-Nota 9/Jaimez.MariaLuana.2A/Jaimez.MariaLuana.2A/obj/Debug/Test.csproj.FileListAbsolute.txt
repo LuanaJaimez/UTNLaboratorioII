@@ -1,0 +1,10 @@
+C:\Users\luana\source\repos\Jaimez.MariaLuana.2A\Jaimez.MariaLuana.2A\bin\Debug\Jaimez.MariaLuana.2A.exe.config
+C:\Users\luana\source\repos\Jaimez.MariaLuana.2A\Jaimez.MariaLuana.2A\bin\Debug\Jaimez.MariaLuana.2A.exe
+C:\Users\luana\source\repos\Jaimez.MariaLuana.2A\Jaimez.MariaLuana.2A\bin\Debug\Jaimez.MariaLuana.2A.pdb
+C:\Users\luana\source\repos\Jaimez.MariaLuana.2A\Jaimez.MariaLuana.2A\bin\Debug\Entidades.dll
+C:\Users\luana\source\repos\Jaimez.MariaLuana.2A\Jaimez.MariaLuana.2A\bin\Debug\Entidades.pdb
+C:\Users\luana\source\repos\Jaimez.MariaLuana.2A\Jaimez.MariaLuana.2A\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\luana\source\repos\Jaimez.MariaLuana.2A\Jaimez.MariaLuana.2A\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\luana\source\repos\Jaimez.MariaLuana.2A\Jaimez.MariaLuana.2A\obj\Debug\Test.csproj.CopyComplete
+C:\Users\luana\source\repos\Jaimez.MariaLuana.2A\Jaimez.MariaLuana.2A\obj\Debug\Jaimez.MariaLuana.2A.exe
+C:\Users\luana\source\repos\Jaimez.MariaLuana.2A\Jaimez.MariaLuana.2A\obj\Debug\Jaimez.MariaLuana.2A.pdb
