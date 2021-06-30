@@ -1,0 +1,21 @@
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\ConexionBD\obj\Debug\ConexionBD.csproj.CoreCompileInputs.cache
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\ConexionBD\bin\Debug\ConexionBD.exe.config
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\ConexionBD\bin\Debug\ConexionBD.exe
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\ConexionBD\bin\Debug\ConexionBD.pdb
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\ConexionBD\obj\Debug\ConexionBD.exe
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\ConexionBD\obj\Debug\ConexionBD.pdb
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\ConexionBD\obj\Debug\ConexionBD.csprojAssemblyReference.cache
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\ConexionBD\bin\Debug\ConexionBD.exe.config
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\ConexionBD\bin\Debug\ConexionBD.exe
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\ConexionBD\bin\Debug\ConexionBD.pdb
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\ConexionBD\obj\Debug\ConexionBD.csprojAssemblyReference.cache
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\ConexionBD\obj\Debug\ConexionBD.csproj.CoreCompileInputs.cache
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\ConexionBD\obj\Debug\ConexionBD.exe
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\ConexionBD\obj\Debug\ConexionBD.pdb
+C:\Users\luana\Desktop\2doParcial Jardin\ConexionBD\bin\Debug\ConexionBD.exe.config
+C:\Users\luana\Desktop\2doParcial Jardin\ConexionBD\bin\Debug\ConexionBD.exe
+C:\Users\luana\Desktop\2doParcial Jardin\ConexionBD\bin\Debug\ConexionBD.pdb
+C:\Users\luana\Desktop\2doParcial Jardin\ConexionBD\obj\Debug\ConexionBD.csprojAssemblyReference.cache
+C:\Users\luana\Desktop\2doParcial Jardin\ConexionBD\obj\Debug\ConexionBD.csproj.CoreCompileInputs.cache
+C:\Users\luana\Desktop\2doParcial Jardin\ConexionBD\obj\Debug\ConexionBD.exe
+C:\Users\luana\Desktop\2doParcial Jardin\ConexionBD\obj\Debug\ConexionBD.pdb

@@ -1,0 +1,85 @@
+C:\Users\walte\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\obj\Debug\FormularioJardin.csprojAssemblyReference.cache
+C:\Users\walte\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\obj\Debug\FormularioJardin.MenPrincipal.resources
+C:\Users\walte\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\obj\Debug\FormularioJardin.Properties.Resources.resources
+C:\Users\walte\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\obj\Debug\FormularioJardin.csproj.GenerateResource.cache
+C:\Users\walte\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\obj\Debug\FormularioJardin.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\bin\Debug\FormularioJardin.exe.config
+C:\Users\walte\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\bin\Debug\FormularioJardin.exe
+C:\Users\walte\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\bin\Debug\FormularioJardin.pdb
+C:\Users\walte\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\bin\Debug\Entidades.dll
+C:\Users\walte\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\bin\Debug\Entidades.pdb
+C:\Users\walte\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\obj\Debug\FormularioJardin.csproj.CopyComplete
+C:\Users\walte\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\obj\Debug\FormularioJardin.exe
+C:\Users\walte\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\obj\Debug\FormularioJardin.pdb
+C:\Users\walte\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\obj\Debug\FormularioJardin.AltaAula.resources
+C:\Users\walte\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\obj\Debug\FormularioJardin.FrmAltaGenerica.resources
+C:\Users\walte\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\obj\Debug\FormularioJardin.FrmLogin.resources
+C:\Users\walte\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\obj\Debug\FormularioJardin.FmrReportePadresPorAula.resources
+C:\Users\frann\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\bin\Debug\FormularioJardin.exe.config
+C:\Users\frann\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\bin\Debug\FormularioJardin.exe
+C:\Users\frann\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\bin\Debug\FormularioJardin.pdb
+C:\Users\frann\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\bin\Debug\Entidades.dll
+C:\Users\frann\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\bin\Debug\Entidades.pdb
+C:\Users\frann\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\obj\Debug\FormularioJardin.csprojAssemblyReference.cache
+C:\Users\frann\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\obj\Debug\FormularioJardin.AltaAula.resources
+C:\Users\frann\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\obj\Debug\FormularioJardin.FmrReportePadresPorAula.resources
+C:\Users\frann\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\obj\Debug\FormularioJardin.FrmAltaGenerica.resources
+C:\Users\frann\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\obj\Debug\FormularioJardin.FrmLogin.resources
+C:\Users\frann\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\obj\Debug\FormularioJardin.MenPrincipal.resources
+C:\Users\frann\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\obj\Debug\FormularioJardin.Properties.Resources.resources
+C:\Users\frann\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\obj\Debug\FormularioJardin.csproj.GenerateResource.cache
+C:\Users\frann\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\obj\Debug\FormularioJardin.csproj.CoreCompileInputs.cache
+C:\Users\frann\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\obj\Debug\FormularioJardin.csproj.CopyComplete
+C:\Users\frann\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\obj\Debug\FormularioJardin.exe
+C:\Users\frann\source\ProyectosFrancisco\FranciscoNavarrete2D\FormularioJardin\obj\Debug\FormularioJardin.pdb
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioJardin\bin\Debug\FormularioJardin.exe.config
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioJardin\bin\Debug\FormularioJardin.exe
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioJardin\bin\Debug\FormularioJardin.pdb
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioJardin\bin\Debug\Entidades.dll
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioJardin\bin\Debug\Entidades.pdb
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioJardin\obj\Debug\FormularioJardin.csprojAssemblyReference.cache
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioJardin\obj\Debug\FormularioJardin.AltaAula.resources
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioJardin\obj\Debug\FormularioJardin.FmrReportePadresPorAula.resources
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioJardin\obj\Debug\FormularioJardin.FrmAltaGenerica.resources
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioJardin\obj\Debug\FormularioJardin.FrmLogin.resources
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioJardin\obj\Debug\FormularioJardin.MenPrincipal.resources
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioJardin\obj\Debug\FormularioJardin.Properties.Resources.resources
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioJardin\obj\Debug\FormularioJardin.csproj.GenerateResource.cache
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioJardin\obj\Debug\FormularioJardin.csproj.CoreCompileInputs.cache
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioJardin\obj\Debug\FormularioJardin.csproj.CopyComplete
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioJardin\obj\Debug\FormularioJardin.exe
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioJardin\obj\Debug\FormularioJardin.pdb
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioJardin\bin\Debug\FormularioJardin.exe.config
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioJardin\bin\Debug\FormularioJardin.exe
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioJardin\bin\Debug\FormularioJardin.pdb
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioJardin\bin\Debug\Entidades.dll
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioJardin\bin\Debug\Entidades.pdb
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioJardin\obj\Debug\FormularioJardin.csprojAssemblyReference.cache
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioJardin\obj\Debug\FormularioJardin.AltaAula.resources
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioJardin\obj\Debug\FormularioJardin.FmrReportePadresPorAula.resources
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioJardin\obj\Debug\FormularioJardin.FrmAltaGenerica.resources
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioJardin\obj\Debug\FormularioJardin.FrmLogin.resources
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioJardin\obj\Debug\FormularioJardin.MenPrincipal.resources
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioJardin\obj\Debug\FormularioJardin.Properties.Resources.resources
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioJardin\obj\Debug\FormularioJardin.csproj.GenerateResource.cache
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioJardin\obj\Debug\FormularioJardin.csproj.CoreCompileInputs.cache
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioJardin\obj\Debug\FormularioJardin.csproj.CopyComplete
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioJardin\obj\Debug\FormularioJardin.exe
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioJardin\obj\Debug\FormularioJardin.pdb
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioJardin\bin\Debug\FormularioJardin.exe.config
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioJardin\bin\Debug\FormularioJardin.exe
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioJardin\bin\Debug\FormularioJardin.pdb
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioJardin\bin\Debug\Entidades.dll
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioJardin\bin\Debug\Entidades.pdb
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioJardin\obj\Debug\FormularioJardin.csprojAssemblyReference.cache
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioJardin\obj\Debug\FormularioJardin.AltaAula.resources
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioJardin\obj\Debug\FormularioJardin.FmrReportePadresPorAula.resources
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioJardin\obj\Debug\FormularioJardin.FrmAltaGenerica.resources
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioJardin\obj\Debug\FormularioJardin.FrmLogin.resources
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioJardin\obj\Debug\FormularioJardin.MenPrincipal.resources
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioJardin\obj\Debug\FormularioJardin.Properties.Resources.resources
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioJardin\obj\Debug\FormularioJardin.csproj.GenerateResource.cache
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioJardin\obj\Debug\FormularioJardin.csproj.CoreCompileInputs.cache
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioJardin\obj\Debug\FormularioJardin.csproj.CopyComplete
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioJardin\obj\Debug\FormularioJardin.exe
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioJardin\obj\Debug\FormularioJardin.pdb

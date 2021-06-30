@@ -1,0 +1,13 @@
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de corredor\Friz.Tomas\parcial 2 de corredor\bin\Debug\parcial 2 de corredor.exe.config
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de corredor\Friz.Tomas\parcial 2 de corredor\bin\Debug\parcial 2 de corredor.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de corredor\Friz.Tomas\parcial 2 de corredor\bin\Debug\parcial 2 de corredor.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de corredor\Friz.Tomas\parcial 2 de corredor\bin\Debug\Entidades.dll
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de corredor\Friz.Tomas\parcial 2 de corredor\bin\Debug\Entidades.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de corredor\Friz.Tomas\parcial 2 de corredor\obj\Debug\parcial 2 de corredor.csprojAssemblyReference.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de corredor\Friz.Tomas\parcial 2 de corredor\obj\Debug\parcial_2_de_corredor.Properties.Resources.resources
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de corredor\Friz.Tomas\parcial 2 de corredor\obj\Debug\parcial 2 de corredor.csproj.GenerateResource.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de corredor\Friz.Tomas\parcial 2 de corredor\obj\Debug\parcial 2 de corredor.csproj.CoreCompileInputs.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de corredor\Friz.Tomas\parcial 2 de corredor\obj\Debug\parcial 2 de corredor.csproj.CopyComplete
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de corredor\Friz.Tomas\parcial 2 de corredor\obj\Debug\parcial 2 de corredor.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de corredor\Friz.Tomas\parcial 2 de corredor\obj\Debug\parcial 2 de corredor.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de corredor\Friz.Tomas\parcial 2 de corredor\obj\Debug\parcial_2_de_corredor.frmRSP.resources

@@ -1,0 +1,6 @@
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de hilos\Friz.Tomas\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de hilos\Friz.Tomas\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de hilos\Friz.Tomas\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de hilos\Friz.Tomas\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de hilos\Friz.Tomas\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de hilos\Friz.Tomas\Interfaces\obj\Debug\Interfaces.pdb

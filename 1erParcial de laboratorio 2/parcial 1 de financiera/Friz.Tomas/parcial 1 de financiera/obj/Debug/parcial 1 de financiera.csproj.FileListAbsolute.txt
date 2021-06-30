@@ -1,0 +1,10 @@
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de financiera\Friz.Tomas\parcial 1 de financiera\bin\Debug\parcial 1 de financiera.exe.config
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de financiera\Friz.Tomas\parcial 1 de financiera\bin\Debug\parcial 1 de financiera.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de financiera\Friz.Tomas\parcial 1 de financiera\bin\Debug\parcial 1 de financiera.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de financiera\Friz.Tomas\parcial 1 de financiera\bin\Debug\Entidades.dll
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de financiera\Friz.Tomas\parcial 1 de financiera\bin\Debug\Entidades.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de financiera\Friz.Tomas\parcial 1 de financiera\obj\Debug\parcial 1 de financiera.csprojAssemblyReference.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de financiera\Friz.Tomas\parcial 1 de financiera\obj\Debug\parcial 1 de financiera.csproj.CoreCompileInputs.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de financiera\Friz.Tomas\parcial 1 de financiera\obj\Debug\parcial 1 de financiera.csproj.CopyComplete
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de financiera\Friz.Tomas\parcial 1 de financiera\obj\Debug\parcial 1 de financiera.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de financiera\Friz.Tomas\parcial 1 de financiera\obj\Debug\parcial 1 de financiera.pdb

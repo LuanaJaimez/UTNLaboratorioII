@@ -1,0 +1,20 @@
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\Friz.Tomas\parcial 1 de mascotas y grupos\bin\Debug\parcial 1 de mascotas y grupos.exe.config
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\Friz.Tomas\parcial 1 de mascotas y grupos\bin\Debug\parcial 1 de mascotas y grupos.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\Friz.Tomas\parcial 1 de mascotas y grupos\bin\Debug\parcial 1 de mascotas y grupos.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\Friz.Tomas\parcial 1 de mascotas y grupos\bin\Debug\Entidades.dll
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\Friz.Tomas\parcial 1 de mascotas y grupos\bin\Debug\Entidades.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\Friz.Tomas\parcial 1 de mascotas y grupos\obj\Debug\parcial 1 de mascotas y grupos.csprojAssemblyReference.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\Friz.Tomas\parcial 1 de mascotas y grupos\obj\Debug\parcial 1 de mascotas y grupos.csproj.CoreCompileInputs.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\Friz.Tomas\parcial 1 de mascotas y grupos\obj\Debug\parcial 1 de mascotas y grupos.csproj.CopyComplete
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\Friz.Tomas\parcial 1 de mascotas y grupos\obj\Debug\parcial 1 de mascotas y grupos.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\Friz.Tomas\parcial 1 de mascotas y grupos\obj\Debug\parcial 1 de mascotas y grupos.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de mascotas\Friz.Tomas\parcial 1 de mascotas y grupos\bin\Debug\parcial 1 de mascotas y grupos.exe.config
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de mascotas\Friz.Tomas\parcial 1 de mascotas y grupos\bin\Debug\parcial 1 de mascotas y grupos.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de mascotas\Friz.Tomas\parcial 1 de mascotas y grupos\bin\Debug\parcial 1 de mascotas y grupos.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de mascotas\Friz.Tomas\parcial 1 de mascotas y grupos\bin\Debug\Entidades.dll
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de mascotas\Friz.Tomas\parcial 1 de mascotas y grupos\bin\Debug\Entidades.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de mascotas\Friz.Tomas\parcial 1 de mascotas y grupos\obj\Debug\parcial 1 de mascotas y grupos.csprojAssemblyReference.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de mascotas\Friz.Tomas\parcial 1 de mascotas y grupos\obj\Debug\parcial 1 de mascotas y grupos.csproj.CoreCompileInputs.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de mascotas\Friz.Tomas\parcial 1 de mascotas y grupos\obj\Debug\parcial 1 de mascotas y grupos.csproj.CopyComplete
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de mascotas\Friz.Tomas\parcial 1 de mascotas y grupos\obj\Debug\parcial 1 de mascotas y grupos.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de mascotas\Friz.Tomas\parcial 1 de mascotas y grupos\obj\Debug\parcial 1 de mascotas y grupos.pdb

@@ -1,0 +1,13 @@
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de cartuchera\Friz.Tomas\parcial 2 de cartuchera\obj\Debug\parcial 2 de cartuchera.csprojAssemblyReference.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de cartuchera\Friz.Tomas\parcial 2 de cartuchera\obj\Debug\parcial_2_de_cartuchera.Properties.Resources.resources
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de cartuchera\Friz.Tomas\parcial 2 de cartuchera\obj\Debug\parcial 2 de cartuchera.csproj.GenerateResource.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de cartuchera\Friz.Tomas\parcial 2 de cartuchera\obj\Debug\parcial 2 de cartuchera.csproj.CoreCompileInputs.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de cartuchera\Friz.Tomas\parcial 2 de cartuchera\bin\Debug\parcial 2 de cartuchera.exe.config
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de cartuchera\Friz.Tomas\parcial 2 de cartuchera\bin\Debug\parcial 2 de cartuchera.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de cartuchera\Friz.Tomas\parcial 2 de cartuchera\bin\Debug\parcial 2 de cartuchera.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de cartuchera\Friz.Tomas\parcial 2 de cartuchera\bin\Debug\Entidades.dll
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de cartuchera\Friz.Tomas\parcial 2 de cartuchera\bin\Debug\Entidades.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de cartuchera\Friz.Tomas\parcial 2 de cartuchera\obj\Debug\parcial 2 de cartuchera.csproj.CopyComplete
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de cartuchera\Friz.Tomas\parcial 2 de cartuchera\obj\Debug\parcial 2 de cartuchera.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de cartuchera\Friz.Tomas\parcial 2 de cartuchera\obj\Debug\parcial 2 de cartuchera.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de cartuchera\Friz.Tomas\parcial 2 de cartuchera\obj\Debug\parcial_2_de_cartuchera.SegundoParcial.resources

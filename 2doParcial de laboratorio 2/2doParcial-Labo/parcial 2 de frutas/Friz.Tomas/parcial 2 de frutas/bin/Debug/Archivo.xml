@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CajonOfFruta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <_capacidad>6</_capacidad>
+  <_frutas>
+    <Fruta xsi:type="Manzana">
+      <distribuidora>filgo</distribuidora>
+    </Fruta>
+    <Fruta xsi:type="Manzana">
+      <distribuidora>filgo</distribuidora>
+    </Fruta>
+    <Fruta xsi:type="Manzana">
+      <distribuidora>filgo</distribuidora>
+    </Fruta>
+    <Fruta xsi:type="Platano">
+      <paisOrigen>Cuba</paisOrigen>
+    </Fruta>
+    <Fruta xsi:type="Platano">
+      <paisOrigen>Arabia</paisOrigen>
+    </Fruta>
+    <Fruta xsi:type="Platano">
+      <paisOrigen>Asgard</paisOrigen>
+    </Fruta>
+  </_frutas>
+  <_precioUnitario>5</_precioUnitario>
+  <Frutas>
+    <Fruta xsi:type="Manzana">
+      <distribuidora>filgo</distribuidora>
+    </Fruta>
+    <Fruta xsi:type="Manzana">
+      <distribuidora>filgo</distribuidora>
+    </Fruta>
+    <Fruta xsi:type="Manzana">
+      <distribuidora>filgo</distribuidora>
+    </Fruta>
+    <Fruta xsi:type="Platano">
+      <paisOrigen>Cuba</paisOrigen>
+    </Fruta>
+    <Fruta xsi:type="Platano">
+      <paisOrigen>Arabia</paisOrigen>
+    </Fruta>
+    <Fruta xsi:type="Platano">
+      <paisOrigen>Asgard</paisOrigen>
+    </Fruta>
+  </Frutas>
+  <RutaArchivo>C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de frutas\Friz.Tomas\parcial 2 de frutas\bin\Debug\</RutaArchivo>
+</CajonOfFruta>

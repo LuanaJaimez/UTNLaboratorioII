@@ -1,0 +1,76 @@
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\bin\Debug\FormularioDocente.exe.config
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\bin\Debug\FormularioDocente.exe
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\bin\Debug\FormularioDocente.pdb
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\bin\Debug\ConexionBD.exe
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\bin\Debug\Entidades.dll
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\bin\Debug\FormularioJardin.exe
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\bin\Debug\MisExcepciones.exe
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\bin\Debug\IrisSkin2.dll
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\bin\Debug\ConexionBD.pdb
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\bin\Debug\ConexionBD.exe.config
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\bin\Debug\Entidades.pdb
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\bin\Debug\FormularioJardin.pdb
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\bin\Debug\FormularioJardin.exe.config
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\bin\Debug\MisExcepciones.pdb
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\bin\Debug\MisExcepciones.exe.config
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\obj\Debug\FormPrincipal.csprojAssemblyReference.cache
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\obj\Debug\FormularioDocente.FrmArchivoTexto.resources
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\obj\Debug\FormularioDocente.FrmLlamaAlumno.resources
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\obj\Debug\FormularioDocente.FrmSerializable.resources
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\obj\Debug\FormularioDocente.Properties.Resources.resources
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\obj\Debug\FormPrincipal.csproj.CopyComplete
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\obj\Debug\FormularioDocente.exe
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\obj\Debug\FormularioDocente.pdb
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioDocente\bin\Debug\FormularioDocente.exe.config
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioDocente\bin\Debug\FormularioDocente.exe
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioDocente\bin\Debug\FormularioDocente.pdb
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioDocente\bin\Debug\ConexionBD.exe
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioDocente\bin\Debug\Entidades.dll
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioDocente\bin\Debug\FormularioJardin.exe
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioDocente\bin\Debug\MisExcepciones.exe
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioDocente\bin\Debug\IrisSkin2.dll
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioDocente\bin\Debug\ConexionBD.pdb
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioDocente\bin\Debug\ConexionBD.exe.config
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioDocente\bin\Debug\Entidades.pdb
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioDocente\bin\Debug\FormularioJardin.pdb
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioDocente\bin\Debug\FormularioJardin.exe.config
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioDocente\bin\Debug\MisExcepciones.pdb
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioDocente\bin\Debug\MisExcepciones.exe.config
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioDocente\obj\Debug\FormPrincipal.csprojAssemblyReference.cache
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioDocente\obj\Debug\FormularioDocente.FrmArchivoTexto.resources
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioDocente\obj\Debug\FormularioDocente.FrmLlamaAlumno.resources
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioDocente\obj\Debug\FormularioDocente.FrmSerializable.resources
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioDocente\obj\Debug\FormularioDocente.Properties.Resources.resources
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioDocente\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioDocente\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioDocente\obj\Debug\FormPrincipal.csproj.CopyComplete
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioDocente\obj\Debug\FormularioDocente.exe
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioDocente\obj\Debug\FormularioDocente.pdb
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\FormularioDocente\bin\Debug\MaterialSkin.dll
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioDocente\bin\Debug\FormularioDocente.exe.config
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioDocente\bin\Debug\FormularioDocente.exe
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioDocente\bin\Debug\FormularioDocente.pdb
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioDocente\bin\Debug\ConexionBD.exe
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioDocente\bin\Debug\Entidades.dll
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioDocente\bin\Debug\FormularioJardin.exe
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioDocente\bin\Debug\MaterialSkin.dll
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioDocente\bin\Debug\MisExcepciones.exe
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioDocente\bin\Debug\ConexionBD.pdb
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioDocente\bin\Debug\ConexionBD.exe.config
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioDocente\bin\Debug\Entidades.pdb
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioDocente\bin\Debug\FormularioJardin.pdb
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioDocente\bin\Debug\FormularioJardin.exe.config
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioDocente\bin\Debug\MisExcepciones.pdb
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioDocente\bin\Debug\MisExcepciones.exe.config
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioDocente\obj\Debug\FormPrincipal.csprojAssemblyReference.cache
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioDocente\obj\Debug\FormularioDocente.FrmArchivoTexto.resources
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioDocente\obj\Debug\FormularioDocente.FrmLlamaAlumno.resources
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioDocente\obj\Debug\FormularioDocente.FrmSerializable.resources
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioDocente\obj\Debug\FormularioDocente.Properties.Resources.resources
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioDocente\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioDocente\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioDocente\obj\Debug\FormPrincipal.csproj.CopyComplete
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioDocente\obj\Debug\FormularioDocente.exe
+C:\Users\luana\Desktop\2doParcial Jardin\FormularioDocente\obj\Debug\FormularioDocente.pdb

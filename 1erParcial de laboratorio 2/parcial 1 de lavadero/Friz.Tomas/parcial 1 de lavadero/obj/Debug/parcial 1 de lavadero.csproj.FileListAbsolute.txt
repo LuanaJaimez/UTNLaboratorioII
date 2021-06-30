@@ -1,0 +1,10 @@
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de lavadero\Friz.Tomas\parcial 1 de lavadero\bin\Debug\parcial 1 de lavadero.exe.config
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de lavadero\Friz.Tomas\parcial 1 de lavadero\bin\Debug\parcial 1 de lavadero.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de lavadero\Friz.Tomas\parcial 1 de lavadero\bin\Debug\parcial 1 de lavadero.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de lavadero\Friz.Tomas\parcial 1 de lavadero\bin\Debug\Entidades.dll
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de lavadero\Friz.Tomas\parcial 1 de lavadero\bin\Debug\Entidades.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de lavadero\Friz.Tomas\parcial 1 de lavadero\obj\Debug\parcial 1 de lavadero.csprojAssemblyReference.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de lavadero\Friz.Tomas\parcial 1 de lavadero\obj\Debug\parcial 1 de lavadero.csproj.CoreCompileInputs.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de lavadero\Friz.Tomas\parcial 1 de lavadero\obj\Debug\parcial 1 de lavadero.csproj.CopyComplete
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de lavadero\Friz.Tomas\parcial 1 de lavadero\obj\Debug\parcial 1 de lavadero.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de lavadero\Friz.Tomas\parcial 1 de lavadero\obj\Debug\parcial 1 de lavadero.pdb

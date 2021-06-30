@@ -1,0 +1,29 @@
+C:\Users\walte\source\ProyectosFrancisco\FranciscoNavarrete2D\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\walte\source\ProyectosFrancisco\FranciscoNavarrete2D\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\ProyectosFrancisco\FranciscoNavarrete2D\Entidades\bin\Debug\Entidades.dll
+C:\Users\walte\source\ProyectosFrancisco\FranciscoNavarrete2D\Entidades\bin\Debug\Entidades.pdb
+C:\Users\walte\source\ProyectosFrancisco\FranciscoNavarrete2D\Entidades\obj\Debug\Entidades.dll
+C:\Users\walte\source\ProyectosFrancisco\FranciscoNavarrete2D\Entidades\obj\Debug\Entidades.pdb
+C:\Users\frann\source\ProyectosFrancisco\FranciscoNavarrete2D\Entidades\bin\Debug\Entidades.dll
+C:\Users\frann\source\ProyectosFrancisco\FranciscoNavarrete2D\Entidades\bin\Debug\Entidades.pdb
+C:\Users\frann\source\ProyectosFrancisco\FranciscoNavarrete2D\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\frann\source\ProyectosFrancisco\FranciscoNavarrete2D\Entidades\obj\Debug\Entidades.dll
+C:\Users\frann\source\ProyectosFrancisco\FranciscoNavarrete2D\Entidades\obj\Debug\Entidades.pdb
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\Entidades\bin\Debug\Entidades.dll
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\Entidades\bin\Debug\Entidades.pdb
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\Entidades\obj\Debug\Entidades.dll
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\Entidades\obj\Debug\Entidades.pdb
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\Entidades\bin\Debug\Entidades.dll
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\Entidades\bin\Debug\Entidades.pdb
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\Entidades\obj\Debug\Entidades.dll
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\Entidades\obj\Debug\Entidades.pdb
+C:\Users\luana\Desktop\2doParcial Jardin\Entidades\bin\Debug\Entidades.dll
+C:\Users\luana\Desktop\2doParcial Jardin\Entidades\bin\Debug\Entidades.pdb
+C:\Users\luana\Desktop\2doParcial Jardin\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\luana\Desktop\2doParcial Jardin\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\luana\Desktop\2doParcial Jardin\Entidades\obj\Debug\Entidades.dll
+C:\Users\luana\Desktop\2doParcial Jardin\Entidades\obj\Debug\Entidades.pdb

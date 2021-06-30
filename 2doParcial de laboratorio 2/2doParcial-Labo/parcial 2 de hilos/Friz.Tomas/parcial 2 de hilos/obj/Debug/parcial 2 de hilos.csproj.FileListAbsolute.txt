@@ -1,0 +1,14 @@
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de hilos\Friz.Tomas\parcial 2 de hilos\bin\Debug\parcial 2 de hilos.exe.config
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de hilos\Friz.Tomas\parcial 2 de hilos\bin\Debug\parcial 2 de hilos.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de hilos\Friz.Tomas\parcial 2 de hilos\bin\Debug\parcial 2 de hilos.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de hilos\Friz.Tomas\parcial 2 de hilos\bin\Debug\Entidades.dll
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de hilos\Friz.Tomas\parcial 2 de hilos\bin\Debug\Interfaces.dll
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de hilos\Friz.Tomas\parcial 2 de hilos\bin\Debug\Entidades.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de hilos\Friz.Tomas\parcial 2 de hilos\bin\Debug\Interfaces.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de hilos\Friz.Tomas\parcial 2 de hilos\obj\Debug\parcial 2 de hilos.csprojAssemblyReference.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de hilos\Friz.Tomas\parcial 2 de hilos\obj\Debug\parcial_2_de_hilos.Properties.Resources.resources
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de hilos\Friz.Tomas\parcial 2 de hilos\obj\Debug\parcial 2 de hilos.csproj.GenerateResource.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de hilos\Friz.Tomas\parcial 2 de hilos\obj\Debug\parcial 2 de hilos.csproj.CoreCompileInputs.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de hilos\Friz.Tomas\parcial 2 de hilos\obj\Debug\parcial 2 de hilos.csproj.CopyComplete
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de hilos\Friz.Tomas\parcial 2 de hilos\obj\Debug\parcial 2 de hilos.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de hilos\Friz.Tomas\parcial 2 de hilos\obj\Debug\parcial 2 de hilos.pdb

@@ -1,0 +1,10 @@
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de comensales\Friz.Tomas\parcial 1 de comensales\bin\Debug\parcial 1 de comensales.exe.config
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de comensales\Friz.Tomas\parcial 1 de comensales\bin\Debug\parcial 1 de comensales.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de comensales\Friz.Tomas\parcial 1 de comensales\bin\Debug\parcial 1 de comensales.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de comensales\Friz.Tomas\parcial 1 de comensales\bin\Debug\Entidades.dll
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de comensales\Friz.Tomas\parcial 1 de comensales\bin\Debug\Entidades.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de comensales\Friz.Tomas\parcial 1 de comensales\obj\Debug\parcial 1 de comensales.csprojAssemblyReference.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de comensales\Friz.Tomas\parcial 1 de comensales\obj\Debug\parcial 1 de comensales.csproj.CoreCompileInputs.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de comensales\Friz.Tomas\parcial 1 de comensales\obj\Debug\parcial 1 de comensales.csproj.CopyComplete
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de comensales\Friz.Tomas\parcial 1 de comensales\obj\Debug\parcial 1 de comensales.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de comensales\Friz.Tomas\parcial 1 de comensales\obj\Debug\parcial 1 de comensales.pdb

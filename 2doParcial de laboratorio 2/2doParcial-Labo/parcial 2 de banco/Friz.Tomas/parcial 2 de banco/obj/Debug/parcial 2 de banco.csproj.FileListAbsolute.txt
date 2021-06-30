@@ -1,0 +1,14 @@
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de banco\Friz.Tomas\parcial 2 de banco\obj\Debug\parcial 2 de banco.csprojAssemblyReference.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de banco\Friz.Tomas\parcial 2 de banco\obj\Debug\parcial_2_de_banco.Properties.Resources.resources
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de banco\Friz.Tomas\parcial 2 de banco\obj\Debug\parcial 2 de banco.csproj.GenerateResource.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de banco\Friz.Tomas\parcial 2 de banco\obj\Debug\parcial 2 de banco.csproj.CoreCompileInputs.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de banco\Friz.Tomas\parcial 2 de banco\bin\Debug\parcial 2 de banco.exe.config
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de banco\Friz.Tomas\parcial 2 de banco\bin\Debug\parcial 2 de banco.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de banco\Friz.Tomas\parcial 2 de banco\bin\Debug\parcial 2 de banco.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de banco\Friz.Tomas\parcial 2 de banco\bin\Debug\Entidades.dll
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de banco\Friz.Tomas\parcial 2 de banco\bin\Debug\Entidades.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de banco\Friz.Tomas\parcial 2 de banco\bin\Debug\Entidades.dll.config
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de banco\Friz.Tomas\parcial 2 de banco\obj\Debug\parcial 2 de banco.csproj.CopyComplete
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de banco\Friz.Tomas\parcial 2 de banco\obj\Debug\parcial 2 de banco.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de banco\Friz.Tomas\parcial 2 de banco\obj\Debug\parcial 2 de banco.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 2 de banco\Friz.Tomas\parcial 2 de banco\obj\Debug\parcial_2_de_banco.frmRSP.resources

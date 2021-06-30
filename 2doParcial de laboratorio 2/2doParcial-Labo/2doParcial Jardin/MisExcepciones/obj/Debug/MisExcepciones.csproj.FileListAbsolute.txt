@@ -1,0 +1,21 @@
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\MisExcepciones\obj\Debug\MisExcepciones.csprojAssemblyReference.cache
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\MisExcepciones\obj\Debug\MisExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\MisExcepciones\bin\Debug\MisExcepciones.exe.config
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\MisExcepciones\bin\Debug\MisExcepciones.exe
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\MisExcepciones\bin\Debug\MisExcepciones.pdb
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\MisExcepciones\obj\Debug\MisExcepciones.exe
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\MisExcepciones\obj\Debug\MisExcepciones.pdb
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\MisExcepciones\bin\Debug\MisExcepciones.exe.config
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\MisExcepciones\bin\Debug\MisExcepciones.exe
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\MisExcepciones\bin\Debug\MisExcepciones.pdb
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\MisExcepciones\obj\Debug\MisExcepciones.csprojAssemblyReference.cache
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\MisExcepciones\obj\Debug\MisExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\MisExcepciones\obj\Debug\MisExcepciones.exe
+C:\Users\frann\Downloads\Segundo-Parcial-Laboratorio-master\MisExcepciones\obj\Debug\MisExcepciones.pdb
+C:\Users\luana\Desktop\2doParcial Jardin\MisExcepciones\bin\Debug\MisExcepciones.exe.config
+C:\Users\luana\Desktop\2doParcial Jardin\MisExcepciones\bin\Debug\MisExcepciones.exe
+C:\Users\luana\Desktop\2doParcial Jardin\MisExcepciones\bin\Debug\MisExcepciones.pdb
+C:\Users\luana\Desktop\2doParcial Jardin\MisExcepciones\obj\Debug\MisExcepciones.csprojAssemblyReference.cache
+C:\Users\luana\Desktop\2doParcial Jardin\MisExcepciones\obj\Debug\MisExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\luana\Desktop\2doParcial Jardin\MisExcepciones\obj\Debug\MisExcepciones.exe
+C:\Users\luana\Desktop\2doParcial Jardin\MisExcepciones\obj\Debug\MisExcepciones.pdb

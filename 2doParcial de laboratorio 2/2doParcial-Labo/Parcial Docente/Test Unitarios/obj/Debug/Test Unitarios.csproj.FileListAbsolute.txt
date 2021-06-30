@@ -1,0 +1,46 @@
+C:\Users\manu_\Desktop\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\manu_\Desktop\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\manu_\Desktop\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\manu_\Desktop\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\manu_\Desktop\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\manu_\Desktop\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\manu_\Desktop\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\Test Unitarios.dll
+C:\Users\manu_\Desktop\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\Test Unitarios.pdb
+C:\Users\manu_\Desktop\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\Archivos.dll
+C:\Users\manu_\Desktop\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\Entindades.dll
+C:\Users\manu_\Desktop\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\manu_\Desktop\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\manu_\Desktop\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\Excepciones.dll
+C:\Users\manu_\Desktop\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\Archivos.pdb
+C:\Users\manu_\Desktop\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\Entindades.pdb
+C:\Users\manu_\Desktop\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\manu_\Desktop\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\manu_\Desktop\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\Excepciones.pdb
+C:\Users\manu_\Desktop\Clifton.Manuel.2D.Parcial2\Test Unitarios\obj\Debug\Test Unitarios.csprojAssemblyReference.cache
+C:\Users\manu_\Desktop\Clifton.Manuel.2D.Parcial2\Test Unitarios\obj\Debug\Test Unitarios.csproj.CoreCompileInputs.cache
+C:\Users\manu_\Desktop\Clifton.Manuel.2D.Parcial2\Test Unitarios\obj\Debug\Test Unitarios.csproj.CopyComplete
+C:\Users\manu_\Desktop\Clifton.Manuel.2D.Parcial2\Test Unitarios\obj\Debug\Test Unitarios.dll
+C:\Users\manu_\Desktop\Clifton.Manuel.2D.Parcial2\Test Unitarios\obj\Debug\Test Unitarios.pdb
+C:\Users\manu_\Desktop\Parcial_Laboratorio2\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\manu_\Desktop\Parcial_Laboratorio2\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\manu_\Desktop\Parcial_Laboratorio2\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\manu_\Desktop\Parcial_Laboratorio2\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\manu_\Desktop\Parcial_Laboratorio2\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\manu_\Desktop\Parcial_Laboratorio2\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\manu_\Desktop\Parcial_Laboratorio2\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\Test Unitarios.dll
+C:\Users\manu_\Desktop\Parcial_Laboratorio2\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\Test Unitarios.pdb
+C:\Users\manu_\Desktop\Parcial_Laboratorio2\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\Archivos.dll
+C:\Users\manu_\Desktop\Parcial_Laboratorio2\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\Entindades.dll
+C:\Users\manu_\Desktop\Parcial_Laboratorio2\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\manu_\Desktop\Parcial_Laboratorio2\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\manu_\Desktop\Parcial_Laboratorio2\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\Excepciones.dll
+C:\Users\manu_\Desktop\Parcial_Laboratorio2\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\Archivos.pdb
+C:\Users\manu_\Desktop\Parcial_Laboratorio2\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\Entindades.pdb
+C:\Users\manu_\Desktop\Parcial_Laboratorio2\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\manu_\Desktop\Parcial_Laboratorio2\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\manu_\Desktop\Parcial_Laboratorio2\Clifton.Manuel.2D.Parcial2\Test Unitarios\bin\Debug\Excepciones.pdb
+C:\Users\manu_\Desktop\Parcial_Laboratorio2\Clifton.Manuel.2D.Parcial2\Test Unitarios\obj\Debug\Test Unitarios.csprojAssemblyReference.cache
+C:\Users\manu_\Desktop\Parcial_Laboratorio2\Clifton.Manuel.2D.Parcial2\Test Unitarios\obj\Debug\Test Unitarios.csproj.CoreCompileInputs.cache
+C:\Users\manu_\Desktop\Parcial_Laboratorio2\Clifton.Manuel.2D.Parcial2\Test Unitarios\obj\Debug\Test Unitarios.csproj.CopyComplete
+C:\Users\manu_\Desktop\Parcial_Laboratorio2\Clifton.Manuel.2D.Parcial2\Test Unitarios\obj\Debug\Test Unitarios.dll
+C:\Users\manu_\Desktop\Parcial_Laboratorio2\Clifton.Manuel.2D.Parcial2\Test Unitarios\obj\Debug\Test Unitarios.pdb

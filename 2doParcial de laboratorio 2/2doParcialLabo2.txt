@@ -1,0 +1,20 @@
+1- Conectar a BD y traer la info
+2- Escribir en archivo de texto hola mundo
+3- Levantar el archivo y mostrar por consola
+4- Serializar un objeto
+5- Deserializar el objeto anterior y mostrar por pantalla
+6- Generar un hilo que ejecute alguno de los puntos o todos esos puntos 
+
+Ejemplos de dataAdapter a mano
+
+ABM sobre base de datos:
+Un alta
+Una baja
+Una modificaciones
+Un traer para ver algo en el listado
+
+Clases genericas, que le pueda pasar parametros y aplicarlo a algunos atributos
+
+Serializacion de algun objeto. Tener a mano los ejemplos de xml que vimos. Tiene que ser publica, tiene que tener constructos por defecto, si es coleccion al menos propiedad de solo lectura. Si es binario es solo construc por defecto. Si se quiere serializar una jerarquia de clases se coloca el xml include en la clase incluyendo las clases hijas
+
+Escritura o lectura de archivos

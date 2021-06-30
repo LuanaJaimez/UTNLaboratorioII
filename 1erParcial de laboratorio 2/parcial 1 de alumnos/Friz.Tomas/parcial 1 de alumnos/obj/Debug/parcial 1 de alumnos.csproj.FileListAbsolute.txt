@@ -1,0 +1,10 @@
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de alumnos\Friz.Tomas\parcial 1 de alumnos\bin\Debug\parcial 1 de alumnos.exe.config
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de alumnos\Friz.Tomas\parcial 1 de alumnos\bin\Debug\parcial 1 de alumnos.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de alumnos\Friz.Tomas\parcial 1 de alumnos\bin\Debug\parcial 1 de alumnos.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de alumnos\Friz.Tomas\parcial 1 de alumnos\bin\Debug\Entidades.dll
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de alumnos\Friz.Tomas\parcial 1 de alumnos\bin\Debug\Entidades.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de alumnos\Friz.Tomas\parcial 1 de alumnos\obj\Debug\parcial 1 de alumnos.csprojAssemblyReference.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de alumnos\Friz.Tomas\parcial 1 de alumnos\obj\Debug\parcial 1 de alumnos.csproj.CoreCompileInputs.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de alumnos\Friz.Tomas\parcial 1 de alumnos\obj\Debug\parcial 1 de alumnos.csproj.CopyComplete
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de alumnos\Friz.Tomas\parcial 1 de alumnos\obj\Debug\parcial 1 de alumnos.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de alumnos\Friz.Tomas\parcial 1 de alumnos\obj\Debug\parcial 1 de alumnos.pdb

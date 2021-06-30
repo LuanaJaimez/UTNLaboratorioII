@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parcial 2 de hospital", "parcial 2 de hospital\parcial 2 de hospital.csproj", "{45C4B832-1CF8-4492-B5E2-DEA9B25AF0C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{E3190592-276D-406C-A02E-B49B84F8FBD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45C4B832-1CF8-4492-B5E2-DEA9B25AF0C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45C4B832-1CF8-4492-B5E2-DEA9B25AF0C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45C4B832-1CF8-4492-B5E2-DEA9B25AF0C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45C4B832-1CF8-4492-B5E2-DEA9B25AF0C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3190592-276D-406C-A02E-B49B84F8FBD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3190592-276D-406C-A02E-B49B84F8FBD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3190592-276D-406C-A02E-B49B84F8FBD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3190592-276D-406C-A02E-B49B84F8FBD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEA30C6E-651B-482E-A6B4-3442BBB1EFB1}
+	EndGlobalSection
+EndGlobal

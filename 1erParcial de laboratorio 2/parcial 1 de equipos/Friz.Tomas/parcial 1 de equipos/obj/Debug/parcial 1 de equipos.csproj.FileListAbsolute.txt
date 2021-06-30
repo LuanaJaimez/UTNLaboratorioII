@@ -1,0 +1,20 @@
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\Friz.Tomas\parcial 1 de equipos\bin\Debug\parcial 1 de equipos.exe.config
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\Friz.Tomas\parcial 1 de equipos\bin\Debug\parcial 1 de equipos.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\Friz.Tomas\parcial 1 de equipos\bin\Debug\parcial 1 de equipos.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\Friz.Tomas\parcial 1 de equipos\bin\Debug\Entidades.dll
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\Friz.Tomas\parcial 1 de equipos\bin\Debug\Entidades.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\Friz.Tomas\parcial 1 de equipos\obj\Debug\parcial 1 de equipos.csprojAssemblyReference.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\Friz.Tomas\parcial 1 de equipos\obj\Debug\parcial 1 de equipos.csproj.CoreCompileInputs.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\Friz.Tomas\parcial 1 de equipos\obj\Debug\parcial 1 de equipos.csproj.CopyComplete
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\Friz.Tomas\parcial 1 de equipos\obj\Debug\parcial 1 de equipos.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\Friz.Tomas\parcial 1 de equipos\obj\Debug\parcial 1 de equipos.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de equipos\Friz.Tomas\parcial 1 de equipos\bin\Debug\parcial 1 de equipos.exe.config
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de equipos\Friz.Tomas\parcial 1 de equipos\bin\Debug\parcial 1 de equipos.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de equipos\Friz.Tomas\parcial 1 de equipos\bin\Debug\parcial 1 de equipos.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de equipos\Friz.Tomas\parcial 1 de equipos\bin\Debug\Entidades.dll
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de equipos\Friz.Tomas\parcial 1 de equipos\bin\Debug\Entidades.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de equipos\Friz.Tomas\parcial 1 de equipos\obj\Debug\parcial 1 de equipos.csprojAssemblyReference.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de equipos\Friz.Tomas\parcial 1 de equipos\obj\Debug\parcial 1 de equipos.csproj.CoreCompileInputs.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de equipos\Friz.Tomas\parcial 1 de equipos\obj\Debug\parcial 1 de equipos.csproj.CopyComplete
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de equipos\Friz.Tomas\parcial 1 de equipos\obj\Debug\parcial 1 de equipos.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de equipos\Friz.Tomas\parcial 1 de equipos\obj\Debug\parcial 1 de equipos.pdb

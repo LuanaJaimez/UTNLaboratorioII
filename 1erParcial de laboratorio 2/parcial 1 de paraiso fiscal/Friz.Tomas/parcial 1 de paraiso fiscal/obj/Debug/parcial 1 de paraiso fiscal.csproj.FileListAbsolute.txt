@@ -1,0 +1,20 @@
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\Friz.Tomas\parcial 1 de paraiso fiscal\bin\Debug\parcial 1 de paraiso fiscal.exe.config
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\Friz.Tomas\parcial 1 de paraiso fiscal\bin\Debug\parcial 1 de paraiso fiscal.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\Friz.Tomas\parcial 1 de paraiso fiscal\bin\Debug\parcial 1 de paraiso fiscal.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\Friz.Tomas\parcial 1 de paraiso fiscal\bin\Debug\Entidades.dll
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\Friz.Tomas\parcial 1 de paraiso fiscal\bin\Debug\Entidades.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\Friz.Tomas\parcial 1 de paraiso fiscal\obj\Debug\parcial 1 de paraiso fiscal.csprojAssemblyReference.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\Friz.Tomas\parcial 1 de paraiso fiscal\obj\Debug\parcial 1 de paraiso fiscal.csproj.CoreCompileInputs.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\Friz.Tomas\parcial 1 de paraiso fiscal\obj\Debug\parcial 1 de paraiso fiscal.csproj.CopyComplete
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\Friz.Tomas\parcial 1 de paraiso fiscal\obj\Debug\parcial 1 de paraiso fiscal.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\Friz.Tomas\parcial 1 de paraiso fiscal\obj\Debug\parcial 1 de paraiso fiscal.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de paraiso fiscal\Friz.Tomas\parcial 1 de paraiso fiscal\bin\Debug\parcial 1 de paraiso fiscal.exe.config
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de paraiso fiscal\Friz.Tomas\parcial 1 de paraiso fiscal\bin\Debug\parcial 1 de paraiso fiscal.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de paraiso fiscal\Friz.Tomas\parcial 1 de paraiso fiscal\bin\Debug\parcial 1 de paraiso fiscal.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de paraiso fiscal\Friz.Tomas\parcial 1 de paraiso fiscal\bin\Debug\Entidades.dll
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de paraiso fiscal\Friz.Tomas\parcial 1 de paraiso fiscal\bin\Debug\Entidades.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de paraiso fiscal\Friz.Tomas\parcial 1 de paraiso fiscal\obj\Debug\parcial 1 de paraiso fiscal.csprojAssemblyReference.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de paraiso fiscal\Friz.Tomas\parcial 1 de paraiso fiscal\obj\Debug\parcial 1 de paraiso fiscal.csproj.CoreCompileInputs.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de paraiso fiscal\Friz.Tomas\parcial 1 de paraiso fiscal\obj\Debug\parcial 1 de paraiso fiscal.csproj.CopyComplete
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de paraiso fiscal\Friz.Tomas\parcial 1 de paraiso fiscal\obj\Debug\parcial 1 de paraiso fiscal.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de paraiso fiscal\Friz.Tomas\parcial 1 de paraiso fiscal\obj\Debug\parcial 1 de paraiso fiscal.pdb

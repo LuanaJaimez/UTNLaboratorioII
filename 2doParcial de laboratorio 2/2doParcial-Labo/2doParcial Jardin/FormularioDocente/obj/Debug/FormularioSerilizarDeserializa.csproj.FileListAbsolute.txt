@@ -1,0 +1,10 @@
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\bin\Debug\FormularioDocente.exe.config
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\bin\Debug\FormularioDocente.exe
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\bin\Debug\FormularioDocente.pdb
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\obj\Debug\FormularioSerilizarDeserializa.csprojAssemblyReference.cache
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\obj\Debug\FormularioDocente.FrmDeserializa.resources
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\obj\Debug\FormularioDocente.Properties.Resources.resources
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\obj\Debug\FormularioSerilizarDeserializa.csproj.GenerateResource.cache
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\obj\Debug\FormularioSerilizarDeserializa.csproj.CoreCompileInputs.cache
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\obj\Debug\FormularioDocente.exe
+C:\Users\frann\Desktop\2do-ParcialFranciscoNava\FormularioDocente\obj\Debug\FormularioDocente.pdb

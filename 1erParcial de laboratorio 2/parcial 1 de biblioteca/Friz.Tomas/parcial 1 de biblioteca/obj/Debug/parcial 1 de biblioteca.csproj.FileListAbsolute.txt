@@ -1,0 +1,10 @@
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de biblioteca\Friz.Tomas\parcial 1 de biblioteca\bin\Debug\parcial 1 de biblioteca.exe.config
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de biblioteca\Friz.Tomas\parcial 1 de biblioteca\bin\Debug\parcial 1 de biblioteca.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de biblioteca\Friz.Tomas\parcial 1 de biblioteca\bin\Debug\parcial 1 de biblioteca.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de biblioteca\Friz.Tomas\parcial 1 de biblioteca\bin\Debug\Entidades.dll
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de biblioteca\Friz.Tomas\parcial 1 de biblioteca\bin\Debug\Entidades.pdb
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de biblioteca\Friz.Tomas\parcial 1 de biblioteca\obj\Debug\parcial 1 de biblioteca.csprojAssemblyReference.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de biblioteca\Friz.Tomas\parcial 1 de biblioteca\obj\Debug\parcial 1 de biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de biblioteca\Friz.Tomas\parcial 1 de biblioteca\obj\Debug\parcial 1 de biblioteca.csproj.CopyComplete
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de biblioteca\Friz.Tomas\parcial 1 de biblioteca\obj\Debug\parcial 1 de biblioteca.exe
+C:\Users\gbcat\OneDrive\Escritorio\TOMÁS\FACULTAD\programacion y laboratorio 2\Parcial de laboratorio 2\parcial 1 de biblioteca\Friz.Tomas\parcial 1 de biblioteca\obj\Debug\parcial 1 de biblioteca.pdb

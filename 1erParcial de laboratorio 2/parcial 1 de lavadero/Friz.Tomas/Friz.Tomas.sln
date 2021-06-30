@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parcial 1 de lavadero", "parcial 1 de lavadero\parcial 1 de lavadero.csproj", "{7D6A4D75-5FEB-4D22-B22E-732C43940149}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{41504744-F842-4689-AEFF-4FE7B430DFF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D6A4D75-5FEB-4D22-B22E-732C43940149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D6A4D75-5FEB-4D22-B22E-732C43940149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D6A4D75-5FEB-4D22-B22E-732C43940149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D6A4D75-5FEB-4D22-B22E-732C43940149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41504744-F842-4689-AEFF-4FE7B430DFF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41504744-F842-4689-AEFF-4FE7B430DFF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41504744-F842-4689-AEFF-4FE7B430DFF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41504744-F842-4689-AEFF-4FE7B430DFF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA7B51E2-3E7C-4954-88F7-8A85F2BC3E95}
+	EndGlobalSection
+EndGlobal

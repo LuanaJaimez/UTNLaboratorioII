@@ -1,0 +1,36 @@
+TEMAS A TRATAR:
+Base de datos
+Unit test
+interfaces
+generics
+serializacion
+archivos
+threads
+Delegados
+Eventos
+-----------------------------------------
+
+Hilos: una aplicacion corre de forma lineal, una tarea a la vez, para ejecutar una instruccion hay que haber terminado otra antes. Si se  aplica hilos lo que se hace es darle la posibilidad al programa de que ejecute mas de una accion al mismo tiempo. 
+Ejemplo: Tengo una cuenta bancaria donde resivo plata de diferentes lugares, sin necesidad de que aprete el boton facturar.
+Es el sincronizmo de que no se tenga que terminar una tarea para arrancar otra.
+
+Delegados - Eventos: Los eventos son acciones que suceden y disparan una consecuencia.
+Un evento es una especie de metodo pero tiene un estimulo, algo que hace que eso suceda. El evento surge a raiz de una reaccion, de una consecuencia.
+Los delegados es un puntero a un meotod. Absorve dentro de is mismo la direccion dememoria de donde esta creado un metodo.
+Un delegado al cual le asignas un metodo y lo usas. Cuando lo usas dispara esa direccion de memoria que se asigno antes.
+ej: Si haces una venta impica: restar uno del stock, cobrarlo, embolver el paquete, informar en la BD, despedir al cliente. Eso seria ele vento vender que dispara esas 6 acciones, no termina el evento vender hasta que esas acciones no se terminaron todas. Es como un agrupador de metodos los eventos. 
+Delegado: perimite asociar direcciones de memoria de los metodos
+eventos: agrupa delegados.
+Se le pueden sumar varios metodos a un delegados y ese delegado de ejecuta por un evento.
+Es la posibilidad de que una accion que suceda tenga una consecuencia pero esa cosecuencia este formada por varias cosas que suceda.
+Manejador de evento: recibe el obejto que lo envia y un argumento. Es el puntero a memoria que quiero que se dispare cuando se aprieta un boton o el evento que fuera.
+
+(shift+alt+. (punto) selecciona la siguiente palabra que sea igual)
+
+Serializo: que tipo? a tipo xml el objeto que se encarga de la accion. Donde esta la ruta y de que tipo de configaracion (utf-8)
+El objeto XmlSerializer es el que se ocupa de serializar, donde, que vas a serializar. Para que lo cree hay que especificarle en que tipo va a ser.
+LA SERIALIZACION SIRVE PARA NO REPETIR CODIGO y para no hacer sobrecargas de metodos, no lo haces de un tipo fijo si no que es generico.
+
+
+
+
